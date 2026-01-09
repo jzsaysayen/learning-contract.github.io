@@ -1,2 +1,2 @@
 Learning Contract for the subject CIT18: Mastery in Web Technologies
-Link: https://jzsaysayen.github.io/learning-contract.github.io/
+/n Link: https://jzsaysayen.github.io/learning-contract.github.io/
